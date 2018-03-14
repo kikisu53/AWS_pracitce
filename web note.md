@@ -39,6 +39,7 @@ nat是功能
 
 
 AWS VPC
+https://blog.clifflu.net/2013/10/aws-vpc-%E5%BF%83%E5%BE%97/
 一個網路：定義網段
 子資源：
 subnet：一定屬於某格az, 不能重複，必須包含在vpc網段中
